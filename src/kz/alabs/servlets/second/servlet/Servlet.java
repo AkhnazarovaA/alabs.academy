@@ -27,7 +27,7 @@ public class Servlet extends HttpServlet {
 
     req.setAttribute("users", users);
 
-    req.getRequestDispatcher("/jsp/second/index.jsp").forward(req, resp);
+    req.getRequestDispatcher("/jsp/servlets/second/index.jsp").forward(req, resp);
   }
 
 }

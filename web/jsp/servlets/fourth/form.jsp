@@ -4,7 +4,7 @@
         <title>Введите данные</title>
     </head>
     <body>
-        <form action='${pageContext.request.contextPath}/jsp/fourth/process.jsp' method='POST'>
+        <form action='${pageContext.request.contextPath}/jsp/servlets/fourth/process.jsp' method='POST'>
             <label for='fullName'>ФИО:</label>
             <input type='text' id='fullName' name='fullName'>
             <br><br>

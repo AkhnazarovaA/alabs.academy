@@ -20,7 +20,7 @@ public class StudentsServlet extends HttpServlet {
 
     req.setAttribute("students", students);
 
-    req.getRequestDispatcher("/jsp/sixth/index.jsp").forward(req, resp);
+    req.getRequestDispatcher("/jsp/servlets/sixth/index.jsp").forward(req, resp);
   }
 
 }

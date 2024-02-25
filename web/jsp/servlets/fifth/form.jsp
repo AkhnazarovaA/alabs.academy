@@ -5,7 +5,7 @@
     </head>
     <body>
         <h2>Форма ввода данных экзамена</h2>
-        <form action='${pageContext.request.contextPath}/jsp/fifth/result.jsp' method='POST'>
+        <form action='${pageContext.request.contextPath}/jsp/servlets/fifth/result.jsp' method='POST'>
             <label for='fullName'>Имя и Фамилия:</label>
             <input type='text' id='fullName' name='fullName' required>
             <br><br>

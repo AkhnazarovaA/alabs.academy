@@ -1,4 +1,4 @@
-package kz.alabs.second.model;
+package kz.alabs.servlets.second.model;
 
 public class User {
 

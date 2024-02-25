@@ -1,8 +1,8 @@
-package kz.alabs.sixth.manager;
+package kz.alabs.servlets.sixth.manager;
 
 import java.util.ArrayList;
 import java.util.List;
-import kz.alabs.sixth.model.Student;
+import kz.alabs.servlets.sixth.model.Student;
 
 public class DBManager {
 

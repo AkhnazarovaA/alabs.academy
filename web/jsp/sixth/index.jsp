@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="java.util.List" %>
-<%@ page import="kz.alabs.sixth.model.Student" %>
+<%@ page import="kz.alabs.servlets.sixth.model.Student" %>
 <html>
     <head>
         <title>Список студентов</title>

@@ -1,11 +1,11 @@
-package kz.alabs.second.servlet;
+package kz.alabs.servlets.second.servlet;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import kz.alabs.second.model.User;
+import kz.alabs.servlets.second.model.User;
 
 import java.io.IOException;
 import java.util.ArrayList;

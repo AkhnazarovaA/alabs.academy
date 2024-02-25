@@ -1,4 +1,4 @@
-package kz.alabs.third;
+package kz.alabs.servlets.third;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

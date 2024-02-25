@@ -1,4 +1,4 @@
-package kz.alabs.sixth.model;
+package kz.alabs.servlets.sixth.model;
 
 public class Student {
 
